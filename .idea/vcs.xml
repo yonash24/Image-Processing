@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/chess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expanse_tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/library_managment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/library_managment/Library-Managment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/library_managment/Memory-Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personalized_news_aggregator" vcs="Git" />
+  </component>
+</project>
