@@ -1,0 +1,4 @@
+class main:
+    pass
+
+
