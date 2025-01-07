@@ -2,6 +2,14 @@ import numpy as np
 import matplotlib as mt
 from PIL import Image
 
-img = Image.open("Images/image1.jpeg")
-img.show()
+class main:
+    
+    def load_image(filepath):
+        pass
+    
+    def apply_transformation():
+        pass
+    
+    def save_and_display():
+        pass
 
